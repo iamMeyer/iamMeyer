@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamMeyer
 - 👀 I’m interested in learn how to program
 - 🌱 I’m currently learning html css
-- 📫 How to reach me discord: im.meyer
+- 📫 How to reach me discord: noisolde
 - ⚡ Fun fact: i play league
 
 <!---
